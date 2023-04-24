@@ -1,0 +1,8 @@
+.colour {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.5rem;
+  background-color: white;
+  padding: 0.5rem;
+  min-width: 7rem;
+}
