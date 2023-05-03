@@ -1,4 +1,4 @@
-import styles from "./palette.module.css";
+import styles from "./Palette.module.css";
 
 interface shadeProps {
   colour: string;

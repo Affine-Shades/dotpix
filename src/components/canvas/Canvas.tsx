@@ -1,4 +1,4 @@
-import styles from "./canvas.module.css";
+import styles from "./Canvas.module.css";
 import useSetupCanvas from "../../hooks/useSetupCanvas";
 import { Window, Coordinates } from "../../types";
 import { useCallback, useEffect, useState } from "react";

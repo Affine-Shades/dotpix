@@ -1,6 +1,6 @@
 import { useDispatch } from "react-redux";
 import Palette from "../palette/Palette";
-import styles from "./toolbar.module.css";
+import styles from "./Toolbar.module.css";
 import {
   switchColour,
   decreaseShade,
